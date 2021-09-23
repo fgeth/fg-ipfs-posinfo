@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-posinfo
+module github.com/fgeth/fg-ipfs-posinfo
 
 go 1.16
 
