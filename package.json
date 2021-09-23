@@ -1,10 +1,10 @@
 {
   "author": "hector",
   "bugs": {
-    "url": "https://github.com/ipfs/go-ipfs-posinfo"
+    "url": "https://github.com/fgeth/fg-ipfs-posinfo"
   },
   "gx": {
-    "dvcsimport": "github.com/ipfs/go-ipfs-posinfo"
+    "dvcsimport": "github.com/fgeth/fg-ipfs-posinfo"
   },
   "gxDependencies": [
     {
